@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">smarttravel</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash">SplashActivity</string>
+	<string name="setting_about_description">about</string>
+	<string name="splash_out_activity">smarttravel.demon.FullscreenActivity</string>
+
+</resources>
