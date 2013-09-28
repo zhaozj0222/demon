@@ -1,0 +1,9 @@
+# ignore project files
+.classpath
+.project
+.settings/*
+
+# ignore auto build files
+assets/*
+bin/*
+gen/*
